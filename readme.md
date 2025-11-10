@@ -6,8 +6,7 @@ This project highlights **responsive layout, clean design, and basic JavaScript 
 ---
 
 ## 🌐 Live Demo
-👉 [View Live Demo](https://themanman999.github.io/product-page-demo/)  
-*(Replace with your GitHub Pages link once deployed)*
+👉 [View Live Demo](https://themanman999.github.io/product-page-demo/)
 
 ---
 
