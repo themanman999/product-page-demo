@@ -1,0 +1,17 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code workspace files
+*.code-workspace
+.vscode/
+
+# Node modules (if you ever use Node)
+node_modules/
+
+# Build folders (if you add any build tools later)
+dist/
+build/
+
+# Environment files (for backend/API keys)
+.env
